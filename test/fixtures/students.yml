@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sname: MyString
+  sid: MyString
+  sbranch: MyString
+
+two:
+  sname: MyString
+  sid: MyString
+  sbranch: MyString
